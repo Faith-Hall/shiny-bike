@@ -3,4 +3,4 @@
 
 [How to Build, Deploy, and Share Python Apps with Shiny](https://www.youtube.com/watch?v=I2W7i7QyJPI)
 
-[Using Your Own Datsets in Shiny Templates](https://youtu.be/ou-09NHcH5w)
+[Using Your Own Datasets in Shiny Templates](https://youtu.be/ou-09NHcH5w)
